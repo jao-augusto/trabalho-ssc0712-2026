@@ -10,9 +10,23 @@ Os slides ainda estão sendo feitos, desculpe não conseguir entregar agora :/
 
 ---
 
+## Instalação
+
+Dentro da pasta `src` do seu workspace ROS 2, clone o repositório:
+
+```bash
+cd ~/seu_workspace/src
+git clone https://github.com/jao-augusto/trabalho-ssc0712-2026.git
+```
+
+Depois siga para a compilação abaixo.
+
+---
+
 ## Compilação
 
 ```bash
+cd ~/seu_workspace
 colcon build --symlink-install --packages-select capote
 source install/setup.bash
 ```
