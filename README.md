@@ -1,7 +1,9 @@
 # capote
 
 Pacote de ROS2 Jazzy em Ubuntu 24.04 para a disciplina SSC0712 - Programação de Robôs Móveis.
+
 O pacote foi feito para o controle de um robô autônomo em um jogo de capturar a bandeira.
+
 Em desenvolvimento...
 
 ---
