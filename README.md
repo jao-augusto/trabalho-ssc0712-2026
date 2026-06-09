@@ -17,7 +17,7 @@ source install/setup.bash
 
 ## Execução
 
-Execute cada comando em um terminal separado, nessa ordem:
+Execute cada comando em um terminal separado já com o source, nessa ordem:
 
 ```bash
 # 1. Inicia a simulação (Gazebo)
