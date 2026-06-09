@@ -6,6 +6,8 @@ O pacote foi feito para o controle de um robô autônomo em um jogo de capturar 
 
 Em desenvolvimento...
 
+Os slides ainda estão sendo feitos, desculpe não conseguir entregar agora :/
+
 ---
 
 ## Compilação
