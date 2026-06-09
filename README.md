@@ -16,6 +16,8 @@ Dentro da pasta `src` do seu workspace ROS 2, clone o repositório:
 
 ```bash
 cd ~/seu_workspace/src
+mkdir capote
+cd capote
 git clone https://github.com/jao-augusto/trabalho-ssc0712-2026.git
 ```
 
