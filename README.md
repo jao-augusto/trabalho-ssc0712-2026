@@ -4,6 +4,8 @@ Pacote de ROS2 Jazzy em Ubuntu 24.04 para a disciplina SSC0712 - Programação d
 
 O pacote foi feito para o controle de um robô autônomo em um jogo de capturar a bandeira.
 
+Atualizei o pacote base para rodar na minha versão de ubuntu e ROS2.
+
 Em desenvolvimento...
 
 Os slides ainda estão sendo feitos, desculpe não conseguir entregar agora :/
