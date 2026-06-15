@@ -8,7 +8,7 @@ Atualizei o pacote base para rodar na minha versão de ubuntu e ROS2.
 
 Em desenvolvimento...
 
-Os slides ainda estão sendo feitos, desculpe não conseguir entregar agora :/
+Link para os slides: https://canva.link/a7pntfzfr7yrrir
 
 ---
 
